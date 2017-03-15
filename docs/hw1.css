@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'webform';
+    src: url(http://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSqRDOzjiPcYnFooOUGCOsRk.woff);
+}
+
+body{
+  background-color: #FFFFB5;
+
+
+}
+
+p {
+  font-family: webform,serif;
+}
+
+#left{
+  width: 70%;
+  float: left;
+}
+
+#left img{
+   width : 90%;
+}
+
+#right{
+  width: 30%;
+  float: left;
+  text-align: center;
+}
+
+
+.note{
+  text-align: right;
+  font-size: 11px;
+  color: #8C0044;
+  font-weight:bold;
+  font-style: italic;
+}
+
+.author{
+  line-height:40px;
+  letter-spacing:10px;
+}
+
+.links{
+  line-height:1;
+}
+
+table{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th,tr,td{
+  border: 1px solid black;
+}
+
+caption{
+  text-align: center;
+}
