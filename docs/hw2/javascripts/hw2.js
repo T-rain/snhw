@@ -8,10 +8,13 @@ needToChangeTagArray.forEach(function(element) {
     for (var i = 0; i < divpbgHTMLcollectionLength; i++) {
 
         document.getElementsByTagName(element)[i].onmouseover = function(ele){
-            ele.target.className = "pbgcolorpink";
+            ele.target.className += " pbgcolorpink";
         }
         document.getElementsByTagName(element)[i].onmouseout = function(ele){
-            ele.target.className = " ";
+            var classNameString = ele.target.className;
+            var index = ele.target.className.indexOf("pbgcolorpink");
+            var changeName = classNameString.substring(0,index);
+            ele.target.className = changeName;
         }
     }
 });
