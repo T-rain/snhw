@@ -1,3 +1,10 @@
-#snhw1
+#snhw
 
-網站文章引用自鄭婷宇-[打破學術界的高牆—開放近用期刊的發展史](http://creativecommons.tw/blog/20161204)
+###social-network-homework
+
+>snhw1
+>>[http://t-rain.github.io/snhw/hw1.html](http://t-rain.github.io/snhw/hw1.html)
+
+>snhw2
+>>[http://t-rain.github.io/snhw/hw2.html](http://t-rain.github.io/snhw/hw2.html)
+
