@@ -22,6 +22,6 @@
 
 >midterm
 >>introduce the web2.0 - HackMD    
->>[HackMD介紹8頁pdf]()  
+>>[HackMD介紹8頁pdf](https://t-rain.github.io/snhw/HACKMD.pdf)  
 >>[HackMD介紹slide版](https://hackmd.io/p/ByAePIJd#/)  
 >>[HackMD介紹MD版](https://hackmd.io/s/ByAePIJd#/)  
