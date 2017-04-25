@@ -109,6 +109,8 @@ document.getElementById('sendMessage').onclick = function() {
                     "text": text
                 });
 
+            window.location.reload();
+
         }).catch(function(error) {
             console.error('Upload failed:', error);
         });
@@ -116,7 +118,7 @@ document.getElementById('sendMessage').onclick = function() {
 
     }
 
-    
+
 
 
 }
